@@ -17,7 +17,6 @@ Modeling & Predictions 🤖: Applying machine learning models to predict various
 
 The dataset used in this project includes details about Uber rides such as:
 
-
 Pickup and drop-off locations 📍
 
 Time and date of the ride 🕒
