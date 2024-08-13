@@ -1,4 +1,4 @@
-🚖 Uber Data Analysis 📊
+🚖 Uber Data Analysis 
 
 Welcome to the Uber Data Analysis project! This project dives deep into the patterns, trends, and insights derived from Uber's dataset. Whether you're interested in data science, machine learning, or simply curious about how ride-sharing works, this repository has something for you.
 
